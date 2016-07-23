@@ -1,6 +1,6 @@
 # AngularJSLiveLessons
-This my personal copy of GitHub: https://github.com/marcwan/angularjslivelessons﻿
 
+This my fork of GitHub: https://github.com/marcwan/angularjslivelessons﻿
 
 Marc Wandschneider (marcwan) has given excellent lectures in Angular JS on Youtube and provided the code in his repository.
 
